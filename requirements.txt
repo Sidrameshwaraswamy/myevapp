@@ -1,5 +1,12 @@
-flask
-scikit-learn
-tensorflow
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
 numpy
 pandas
+scikit-learn
+joblib
+jupyterlab
+keras
+tesorflow
+seaborn
